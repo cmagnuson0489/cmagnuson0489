@@ -1,4 +1,4 @@
-visitor-  Hello, I am Chris. I love to code and work on new projects in my free time. 
+-  Hello, I am Chris. I love to code and work on new projects in my free time. 
 -  I am interested in Software Engineering roles in Southern California as well as the West Coast and Texas. 
 -  I am interested in working on new and exciting projects and learning new things.
 -  My core programming languages are C++ and C# and I have been programming in these languages for close to three years. 
