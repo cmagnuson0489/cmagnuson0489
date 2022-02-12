@@ -1,4 +1,4 @@
--  Hello, I am Chris. I love to code and work on new projects in my free time. 
+visitor-  Hello, I am Chris. I love to code and work on new projects in my free time. 
 -  I am interested in Software Engineering roles in Southern California as well as the West Coast and Texas. 
 -  I am interested in working on new and exciting projects and learning new things.
 -  My core programming languages are C++ and C# and I have been programming in these languages for close to three years. 
@@ -9,3 +9,5 @@
 - 📫 You can reach me at cmagnuson0489@gmail.com
 -  Feel free to connect with me on  https://www.linkedin.com/in/christopher-magnuson-406679167/
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
