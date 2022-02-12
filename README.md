@@ -9,6 +9,6 @@
 
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cmagnuson0489.visitor-badge)
+### I am happy to see you here! &nbsp;[visitor badge](https://visitor-badge.glitch.me/badge?page_id=cmagnuson0489.cmagnuson0489)
 
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmagnuson0489)](https://github.com/cmagnuson0489/github-readme-stats)
