@@ -10,7 +10,6 @@ visitor-  Hello, I am Chris. I love to code and work on new projects in my free 
 -  Feel free to connect with me on  https://www.linkedin.com/in/christopher-magnuson-406679167/
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cmagnuson0489.visitor-badge)
 
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmagnuson0489)](https://github.com/cmagnuson0489/github-readme-stats)
