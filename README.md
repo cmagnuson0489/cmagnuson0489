@@ -1,3 +1,4 @@
+-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/christopher-magnuson)
 -  Hello, I am Chris. I love to code and work on new projects in my free time. 
 -  I am interested in Software Engineering roles in Southern California as well as the West Coast and Texas as well as Remote positions as well. 
 -  I am interested in working on new and exciting projects and learning new things.
