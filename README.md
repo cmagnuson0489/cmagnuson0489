@@ -12,3 +12,7 @@
 
 
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmagnuson0489)](https://github.com/cmagnuson0489/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmagnuson0489&layout=compact)](https://github.com/cmagnuson0489/github-readme-stats)
