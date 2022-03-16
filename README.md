@@ -1,7 +1,7 @@
 -  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/christopher-magnuson)
 -  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ChrisMag8889)
 -  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chrismagnuson8889)
--   Hello, I am Chris. I love to code and work on new projects in my free time.  I am interested in Software Engineering roles in Southern California as well as the     West Coast and Texas as well as Remote positions. I am interested in working on new and exciting projects and learning new things. My core programming   languages are Java, C++ and C# and I have been programming in these languages for close to three years.  
+-   Hello, I am Chris. I love to code and work on new projects in my free time.  I am interested in Software Engineering roles in Southern California as well as the     West Coast and Texas as well as Remote positions. I am interested in working on new and exciting projects and learning new things. My core programming   languages are Java, C++ and C#. I have been programming in these languages for close to three years.  
 - 👨‍💻 I am also currently learning Python, AWS, JavaScript and working on projects involving MicroServices.
 - 👨‍💻  am looking to collaborate on open source projects, startup opportunities, or passion projects. 
 - 🚀 I am currently practicing my Data Structures and Algorithm skills on Leetcode.
