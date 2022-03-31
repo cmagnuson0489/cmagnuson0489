@@ -5,7 +5,7 @@
 - 👨‍💻 I am also currently learning Python, AWS, JavaScript and working on projects involving MicroServices.
 - 👨‍💻 I am looking to collaborate on open source projects, startup opportunities, or passion projects. 
 - 🚀 I am currently practicing my Data Structures and Algorithm skills on Leetcode.
-- 📫 You can reach me at cmagnuson0489@gmail.com
+- 📫 Feel free to reach out to me at cmagnuson0489@gmail.com
 
 
 ### Thank you for visiting my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cmagnuson0489.cmagnuson0489)
