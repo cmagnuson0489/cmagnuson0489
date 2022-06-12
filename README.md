@@ -6,6 +6,7 @@
 - 👨‍💻 I am looking to collaborate on open source projects, startup opportunities, or passion projects. 
 - 🚀 I am currently practicing my Data Structures and Algorithm skills on Leetcode.
 - 📫 Feel free to reach out to me at cmagnuson0489@gmail.com
+- Remote work is probably one of the top things that I look for in a company. 
 
 
 ### Thank you for visiting my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cmagnuson0489.cmagnuson0489)
