@@ -6,7 +6,4 @@
 - 👨‍💻 I am looking to collaborate on open source projects, startup opportunities, or passion projects. 
 - 📫 Feel free to reach out to me at cmagnuson0489@gmail.com
 
-### Thank you for visiting my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cmagnuson0489.cmagnuson0489)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmagnuson0489&layout=compact)](https://github.com/cmagnuson0489/github-readme-stats)
