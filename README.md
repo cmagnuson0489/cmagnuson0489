@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmagnuson0489&layout=compact)](https://github.com/cmagnuson0489/github-readme-stats)
 
-### Technical Skills 💪🏻 
+### Technical Skills 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/SQL%20Server-FF0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
@@ -16,8 +16,6 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-E44C30?style=for-the-badge&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=json&logoColor=pink)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
