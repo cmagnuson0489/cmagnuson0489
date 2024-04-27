@@ -10,9 +10,10 @@
 
 ### Technical Skills 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/SQL%20Server-FF0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
-![](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/SQL%20Server-FF0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-E44C30?style=for-the-badge&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=json&logoColor=pink)
