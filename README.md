@@ -1,4 +1,4 @@
--  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/christopher-magnuson)
+-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chris-magnuson/)
 -  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chrismagnuson8889)
 -   Hello, my name is Chris. I love to code and work on new projects in my free time.  
 -   My core programming languages are C++, C#, and Python. 
