@@ -4,7 +4,7 @@
 -   My core programming languages are C++, C#, and Python. 
 - 👨‍💻 I also have experience using, AWS, JavaScript, React and working on projects involving MicroServices.
 - 👨‍💻 I am looking to collaborate on open source projects, startup opportunities, or passion projects. 
-- 📫 Feel free to reach out to me at cmagnuson0489@gmail.com
+- 📫 Feel free to reach out to me at cmagnuson0489@gmail.com.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmagnuson0489&layout=compact)](https://github.com/cmagnuson0489/github-readme-stats)
 
